@@ -105,6 +105,6 @@
 - [Redfin's Official Website](https://www.redfin.com)
 - [Offerpad's Official Website](https://www.offerpad.com)
 - [Compass's Official Website](https://www.compass.com)
-- [Reuters on Opendoor Settlement](https://www.reuters.com/legal/opendoor-settles-lawsuit-over-alleged-misleading-advertising-2023/)
+- [Reuters/Wiki on Opendoor Settlement](https://en.wikipedia.org/wiki/Opendoor)
 - [Podcast on Opendoor and iBuying](https://www.youtube.com/watch?v=RZFuzXLHICI)
 - [ AI in Real Estate: 29 Companies Defining the Industry](https://builtin.com/artificial-intelligence/ai-real-estate)
